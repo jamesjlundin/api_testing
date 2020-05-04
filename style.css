@@ -1,0 +1,19 @@
+#error {
+  display: none;
+  color: red;
+}
+
+#lastSearch {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 800px;
+  background-color: black;
+}
+#lastSearch div p {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
